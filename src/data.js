@@ -1,75 +1,86 @@
 export const sculptureList = [{
-    name: 'Homenaje a la neurocirugía',
-    artist: 'Marta Colvin Andrade',
-    description: 'Aunque Colvin es predominantemente conocida por temas abstractos que aluden a símbolos prehispánicos, esta gigantesca escultura, un homenaje a la neurocirugía, es una de sus obras de arte público más reconocibles.',
-    url: 'https://i.imgur.com/Mx7dA2Y.jpg',
-    alt: 'Una estatua de bronce de dos manos cruzadas sosteniendo delicadamente un cerebro humano en la punta de sus dedos.'
-  }, {
-    name: 'Floralis genérica',
-    artist: 'Eduardo Catalano',
-    description: 'Esta enorme flor plateada (75 pies o 23 m) se encuentra en Buenos Aires. Está diseñado para moverse, cerrando sus pétalos por la tarde o cuando soplan fuertes vientos y abriéndolos por la mañana.',
-    url: 'https://i.imgur.com/ZF6s192m.jpg',
-    alt: 'Una gigantesca escultura de flor metálica con pétalos reflectantes como espejos y fuertes estambres.'
-  }, {
-    name: 'Presencia eterna',
-    artist: 'John Woodrow Wilson',
-    description: 'Wilson era conocido por su preocupación por la igualdad, la justicia social, así como por las cualidades esenciales y espirituales de la humanidad. Este bronce masivo (7 pies o 2,13 m) representa lo que él describió como "una presencia negra simbólica infundida con un sentido de humanidad universal"."',
-    url: 'https://i.imgur.com/aTtVpES.jpg',
-    alt: 'La escultura que representa una cabeza humana parece omnipresente y solemne. Irradia calma y serenidad.'
-  }, {
-    name: 'Moái',
-    artist: 'Artista desconocido',
-    description: 'Ubicados en la Isla de Pascua, hay 1,000 moáis, o estatuas monumentales existentes, creadas por los primeros rapanui, que algunos creen que representan a ancestros deificados.',
-    url: 'https://i.imgur.com/RCwLEoQm.jpg',
-    alt: 'Tres bustos monumentales de piedra con las cabezas desproporcionadamente grandes con rostros sombríos.'
-  }, {
-    name: 'Nana azul',
-    artist: 'Niki de Saint Phalle',
-    description: 'Las Nanas son criaturas triunfantes, símbolos de feminidad y maternidad. En un principio, Saint Phalle utilizaba telas y objetos encontrados para las Nanas, y más tarde introdujo el poliéster para conseguir un efecto más vibrante.',
-    url: 'https://i.imgur.com/Sd1AgUOm.jpg',
-    alt: 'Gran escultura en mosaico de una caprichosa figura femenina bailando con un colorido traje que emana alegría.'
-  }, {
-    name: 'Forma definitiva',
-    artist: 'Barbara Hepworth',
-    description: 'Esta escultura abstracta de bronce es parte de la serie La Familia del Hombre ubicada en Yorkshire Sculpture Park. Hepworth optó por no crear representaciones literales del mundo, sino que desarrolló formas abstractas inspiradas en personas y paisajes.',
-    url: 'https://i.imgur.com/2heNQDcm.jpg',
-    alt: 'Una escultura alta formada por tres elementos apilados unos sobre otros que recuerdan una figura humana.'
-  }, {
-    name: 'Cavaliere',
-    artist: 'Lamidi Olonade Fakeye',
-    description: "Descendiente de cuatro generaciones de talladores de madera, el trabajo de Fakeye combinó temas yoruba tradicionales y contemporáneos.",
-    url: 'https://i.imgur.com/wIdGuZwm.png',
-    alt: 'Una intrincada escultura de madera de un guerrero con el rostro centrado en un caballo adornado con motivos.'
-  }, {
-    name: 'Grandes barrigas',
-    artist: 'Alina Szapocznikow',
-    description: "Szapocznikow es conocida por sus esculturas del cuerpo fragmentado como metáfora de la fragilidad y la impermanencia de la juventud y la belleza. Esta escultura representa dos barrigas grandes muy realistas apiladas una encima de otra, cada una de unos cinco pies (1,5 m) de altura.",
-    url: 'https://i.imgur.com/AlHTAdDm.jpg',
-    alt: 'La escultura recuerda una cascada de pliegues, muy diferente a los vientres de las esculturas clásicas.'
-  }, {
-    name: 'Guerreros de terracota',
-    artist: 'Artista desconocido',
-    description: 'Los Guerreros de terracota es una colección de esculturas de terracota que representan los ejércitos de Qin Shi Huang, el primer emperador de China. El ejército constaba de más de 8.000 soldados, 130 carros con 520 caballos y 150 caballos de caballería.',
-    url: 'https://i.imgur.com/HMFmH6m.jpg',
-    alt: '12 esculturas de terracota de guerreros solemnes, cada uno con una expresión facial y una armadura únicas.'
-  }, {
-    name: 'Paisaje lunar',
-    artist: 'Louise Nevelson',
-    description: 'Nevelson era conocida por recoger objetos de los escombros de la ciudad de Nueva York, que luego ensamblaría en construcciones monumentales. En este, usó partes dispares como un poste de cama, una clava de malabarista y un fragmento de asiento, clavándolos y pegándolos en cajas que reflejan la influencia de la abstracción geométrica del espacio y la forma del cubismo.',
-    url: 'https://i.imgur.com/rN7hY6om.jpg',
-    alt: 'Una escultura negra mate donde los elementos individuales son inicialmente indistinguibles.'
-  }, {
-    name: 'Aureola',
-    artist: 'Ranjani Shettar',
-    description: 'Shettar fusiona lo tradicional y lo moderno, lo natural y lo industrial. Su arte se centra en la relación entre el hombre y la naturaleza. Su trabajo fue descrito como convincente tanto en sentido abstracto como figurado, que desafía la gravedad y una "fina síntesis de materiales inverosímiles".',
-    url: 'https://i.imgur.com/okTpbHhm.jpg',
-    alt: 'Una escultura parecida a un alambre pálido montada en una pared de hormigón y descendiendo al suelo. Parece ligero.'
-  }, {
-    name: 'Hipopótamos',
-    artist: 'Zoológico de Taipei',
-    description: 'El Zoológico de Taipei encargó una Plaza del Hipopótamo con hipopótamos sumergidos jugando.',
-    url: 'https://i.imgur.com/6o5Vuyu.jpg',
-    alt: 'Un grupo de esculturas de hipopótamos de bronce que emergen de la acera como si estuvieran nadando.'
+    name: 'Niko Bellic',
+    artist: 'Rockstar Games',
+    description: 'Protagonista del GTA IV, viaja a Liberty city con su hermano Roman tras luchar en la guerra de los Balcanes; busca a uno de las dos personas que asesinaron a su pelotón en la misma. También huye de Ray Bulgarin un mafioso que contrato a Niko para hacer de transportista en el tráfico de personas del mar Adriático',
+    url: 'https://static.wikia.nocookie.net/gtawiki/images/f/fb/NikoBellic-GTAIV.jpg',
+    alt: 'Imagen de Niko Bellic'
+  }, 
+  {
+    name: 'Dimitri Rascalov',
+    artist: 'Rockstar Games',
+    description: 'Antagonista principal del GTA IV, traiciona a Niko ya que tiene tratos con Ray Bulgarin',
+    url: 'https://static.wikia.nocookie.net/rockstargamescompany/images/b/bd/DimitriRascalov.jpg',
+    alt: 'Imagen de Dimitri Rascalov'
+  }, 
+  {
+    name: 'Roman Bellic',
+    artist: 'Rockstar Games',
+    description: 'Primo de Niko Bellic, fallece en el final del dinero',
+    url: 'https://static.wikia.nocookie.net/rockstargamescompany/images/a/a3/Roman_Bellic.jpg',
+    alt: 'Imagen de Roman Bellic'
+  }, 
+  {
+    name: 'Little Jacob',
+    artist: 'Rockstar Games',
+    description: 'Amigo Jamaicano de Niko Bellic, le gustan los porros y las armas',
+    url: 'https://static.wikia.nocookie.net/esgta/images/3/38/Little_Jacob_IV.png',
+    alt: 'Imagen de Little Jacob'
+  }, 
+  {
+    name: 'Ray Bulgarin',
+    artist: 'Rockstar Games',
+    description: 'Exjefe mafioso de Niko, viaja a Liberty city para buscarle y vengarse por haberle hecho perder dinero en un accidente del que Niko no tiene la culpa',
+    url: 'https://static.wikia.nocookie.net/gtawiki/images/7/7a/RayBulgarin-TBOGT.png',
+    alt: 'Imagen de Ray Bulgarin'
+  }, 
+  {
+    name: 'Packie Mcreary',
+    artist: 'Rockstar Games',
+    description: 'Irlandés liante amigo de Niko, con el que harás multiples misiones y peripecias',
+    url: 'https://static.wikia.nocookie.net/esgta/images/0/00/Patrick_McReary_IV.png',
+    alt: 'Imagen de Packie McReary'
+  }, 
+  {
+    name: 'Kate McReary',
+    artist: 'Rockstar Games',
+    description: "Hermana de Packie, conoce a Niko e inician una relación sentimental; fallece en el final de la traición",
+    url: 'https://static.wikia.nocookie.net/esgta/images/a/a4/Kate_GTAIV.PNG',
+    alt: 'Imagen de Kate McReary'
+  }, 
+  {
+    name: 'Brucie',
+    artist: 'Rockstar Games',
+    description: "Amigo de Roman, le gustan los esteroides y las carreras ilegales",
+    url: 'https://static.wikia.nocookie.net/esgta/images/e/e4/Brucie_IV.png',
+    alt: 'Imagen de Brucie'
+  }, 
+  {
+    name: 'Florian Cravic',
+    artist: 'Rockstar Games',
+    description: 'Es una de las 3 personas junto con Niko que sobrevivieron del pelotón, Niko creía que era él el traidor y por él se había mudado a Liberty city; sin embargo no sólo no es él, sino que ahora es homosexual y se ha cambiado la identidad',
+    url: 'https://static.wikia.nocookie.net/gtawiki/images/6/6f/BernieCrane-GTAIV.png',
+    alt: 'Imagen de Florian Cravic'
+  }, 
+  {
+    name: 'Faustin',
+    artist: 'Rockstar Games',
+    description: 'Uno de los primeros jefes de Niko, mafioso y adicto a la cocaina, Dimitri su ex amigo convence a Niko de matarle por su temeridad; sin embargo este último le acaba traicionando',
+    url: 'https://static.wikia.nocookie.net/gtawiki/images/f/f4/MikhailFaustin-GTAIV.jpg',
+    alt: 'Imagen de Mr Faustin'
+  }, 
+  {
+    name: 'Mallorie Bardas',
+    artist: 'Rockstar',
+    description: 'Mujer de Roman Bellic, la boda de ambos es donde se decidirá quien fallece si Roman o Kate; dependiendo del final que hayas elegido',
+    url: 'https://static.wikia.nocookie.net/esgta/images/0/06/Mallorie_Bardas_IV.PNG',
+    alt: 'Imagen de Mallorie Bardas'
+  }, 
+  {
+    name: 'Dwayne Forge',
+    artist: 'Rockstar Games',
+    description: 'ExPresidiario y amigo de Niko, en un punto de la historia Niko conoce a Playboy X su ex socio, el cual te mandará matarlo debido a que Dwayne le supone una amenaza; Niko deberá elegir a quien matar, siendo canónicamente la decisión matar a Playboy; ya que Niko se lleva muy bien con Dwayne',
+    url: 'https://static.wikia.nocookie.net/esgta/images/f/f7/Dwayne_%28IV%29.png',
+    alt: 'imagen de Dwayne Forge'
   }
 ];
   
